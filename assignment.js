@@ -2,7 +2,7 @@
 
 // First function
 
-function kelometerToMeter(kilometer){
+function kilometerToMeter(kilometer){
     
     var distanceInMeter = 1000*kilometer;
     if(kilometer<0){
